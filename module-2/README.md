@@ -72,3 +72,6 @@ A good retriever blends these methods to get the best results.
     - Typically combined with keyword or semantic search to refine results.
 
     - Alone, metadata filtering is not sufficient for retrieval.
+
+
+## TF-IDF
